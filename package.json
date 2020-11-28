@@ -16,5 +16,13 @@
   "bin": {
     "random-msg": "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludwing979/random-messages-platzi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ludwing979/random-messages-platzi/issues"
+  },
+  "homepage": "https://github.com/ludwing979/random-messages-platzi#readme"
 }
